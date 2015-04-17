@@ -1,7 +1,7 @@
 "use strict";
 Package.describe({
   summary: "Login service for stripe accounts",
-  name: "dancaws:accounts-stripe",
+  name: "chroma:accounts-stripe",
   version: "0.0.3"
 });
 
